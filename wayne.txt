@@ -1,0 +1,113 @@
+Personal Info: 
+
+Team Profile:
+  Andrew Vu
+  Nimo Sheikh
+  Wayne Lightfoot
+
+Ideal Jobs:
+
+Industry Data:
+      What are the job titles for the groups ideal jobs?
+      
+      
+      
+      How do they rank in terms of demand from employers?
+      
+      
+      From your groups ideal jobs, you can identify a set of skills required for these jobs
+      - General skills (communication, problem solving, writing etc)
+      - IT specific skills (Javascript, SQL, etc)
+      
+      How does IT skills rank in terms of demand from employers?
+      How does general skills rank in terms of demand from employers?
+      
+      3 Highest ranked IT skills NOT in your required skill set?
+      3 Highest ranked general skills NOT in your required skill set?
+      
+      Having looked at Burning Glass data, has your opinion of your ideal job changed? Why, why not?
+      
+IT Work:
+      Interview an IT professional.
+      
+IT Technologies
+1. What does it do? (600 words) What is the state of the art of this new technology? 
+   What can be done now? What is likely to be able to do be done soon (say in the next 3 years)?
+   What technological or other developments make this possible?
+2. What is the likely impact? (300 words) What is the potential impact of this development? What is likely to change?
+   Which people will be most affected and how? Will this create, replace or make redundant any current jobs or technologies?
+3. How will this affect you? (300 words)  In your daily life, how will this affect you? What will be different for you?
+   How might this affect members of your family or your friends?
+
+
+  CLOUDS, SERVICES, SERVERS
+ 1. Cloud computing is the delivery of services and resources like files and software. It acts as a back up for your computer and shares
+ your data across the internet for a more flexible and faster way to store data. It is basically an infinite source of storage. 
+ Cloud technology offers better cost, speed and productivity for any user. It eliminates the use of hardware, software and local data
+ centres that would need constant managing, powering, cooling and patching.
+ 2. The impact of cloud usage is huge to any company or user, big or small. It gives more options on how someone can run their business
+ and store their data. Without cloud technology storing your data onsite with servers etc requires ongoing maintenance costs, up front 
+ capital, technology replacement and IT staff to maintain.
+ Though using the cloud for your data may sacrifice more control of your data due to relying on internet connection and improved privacy
+ for sensitive data.
+ 3. Cloud services have already affected the way my data is stored or backed up either from my phone or laptop. Someone who has lost his
+ phone many times being able to not lose my photos and files is a huge benefit. My wife is a teacher and they use the cloud to
+ share their data between each other and other teaching and professional development networks to view and improve their works.
+  
+  
+  
+  
+  
+  BLOCKCHAIN AND CRYPTOCURRENCIES
+
+
+
+  AUTOMONOUS VEHICLES
+  
+  Waymo Cars
+  https://www.youtube.com/watch?v=WBkgs4u5tW0 
+  
+  Government approach to EV in Australia.
+  https://www.theaustralian.com.au/nation/politics/labor-looks-to-norway-to-drive-electric-car-sales/news-story/cd2aba160466219f74a70aac66b4c036
+  https://www.theguardian.com/australia-news/2019/apr/01/50-of-new-cars-to-be-electric-vehicles-by-2030-under-labor-climate-change-policy
+  
+  Cons:
+  Hard to navigate around, communication between driver non existant
+  Inability to make fast decisions (human like decisions)
+  Autonomous will always have constraints
+
+  MACHINE LEARNING
+  1.  Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and
+  improve from experience without being explicitly programming. 
+  
+  
+Project Idea
+
+Esper Project
+
+Brainstorming... Info... 
+Esper project's goal is to minimise fatalities and incidents on roads aswell as creating a safer, more energy efficient and 
+environmentally friendly path for the future of transport. 
+
+background of energy storage
+
+Renewable energy solar and wind power is cheap, clean and plentiful. But only when where there is sunlight or wind blowing therefore
+being inconsistant. Coal/Gas plants that run our grid power arent very efficient but they are consistant and predictable and thats why 
+they will still be used for sometime. Energy storage can be the missing piece to solve those inconsistancy problems. 
+
+A battery is a bank for energy. Price and durability of batteries has vastly improved in the past few years. Improvements have made them
+useful for various energies like solar. Lithium- ion battery has taken off with the growth of mobile devices, electric cars etc. The 
+lithium-ion battery industry alone is expected to grow to $93 billion by 2025.
+
+https://www.grandviewresearch.com/press-release/global-lithium-ion-battery-market
+
+Battery weaknesses:
+- degrade over time
+- cant run indefinitely like our constant grid power.
+
+How do we create an infinite/constant source from battery power?
+
+
+
+
+ 
