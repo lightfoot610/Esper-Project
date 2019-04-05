@@ -6,17 +6,21 @@ Team Profile:
   Wayne Lightfoot
 
 Ideal Jobs:
+Wayne: Business IT Analyst 
 
 Industry Data:
       What are the job titles for the groups ideal jobs?
-      
+      Business It Analyst
       
       
       How do they rank in terms of demand from employers?
+      The term Business Analyst is not listed in the Burning Glass data however in the below reference it is listed as a top 3 most in demand jobs in 2017. However Business Analysis is listed in the Burning Glass data as a IT specific skill. 
       
+      https://www.themigrationagency.com.au/insight-the-top-10-in-demand-tech-jobs-and-skills-in-australia/
       
       From your groups ideal jobs, you can identify a set of skills required for these jobs
       - General skills (communication, problem solving, writing etc)
+      
       - IT specific skills (Javascript, SQL, etc)
       
       How does IT skills rank in terms of demand from employers?
@@ -41,18 +45,15 @@ IT Technologies
 
 
   CLOUDS, SERVICES, SERVERS
- 1. Cloud computing is the delivery of services and resources like files and software. It acts as a back up for your computer and shares
- your data across the internet for a more flexible and faster way to store data. It is basically an infinite source of storage. 
- Cloud technology offers better cost, speed and productivity for any user. It eliminates the use of hardware, software and local data
- centres that would need constant managing, powering, cooling and patching.
- 2. The impact of cloud usage is huge to any company or user, big or small. It gives more options on how someone can run their business
- and store their data. Without cloud technology storing your data onsite with servers etc requires ongoing maintenance costs, up front 
- capital, technology replacement and IT staff to maintain.
- Though using the cloud for your data may sacrifice more control of your data due to relying on internet connection and improved privacy
- for sensitive data.
- 3. Cloud services have already affected the way my data is stored or backed up either from my phone or laptop. Someone who has lost his
- phone many times being able to not lose my photos and files is a huge benefit. My wife is a teacher and they use the cloud to
- share their data between each other and other teaching and professional development networks to view and improve their works.
+ 1. Cloud computing is the delivery of services and resources like files and software. It acts as a back up for your computer and shares your data across the internet for a more flexible and faster way to store data. It is basically an infinite source of storage. 
+ Cloud technology offers better cost, speed and productivity for any user. It eliminates the use of hardware, software and local data centres that would need constant managing, powering, cooling and patching.
+State of the art technology for cloud computing is the rise of the cloud services (PaaS, SaaS, IaaS) and the progression of quantum computing. There is an expected major growth of these types of cloud services, resulting in almost every company/business utilising the cloud is some way. An example of predicted growth is in hybrid cloud services as it gives companies the flexibility to transition at their own pace. Cloud services are continuously being looked to as a method for providing access to quantum processing. It is used in many forms like gaming, teaching and researching. 
+See reference: 
+https://www.forbes.com/sites/forbestechcouncil/2018/07/05/four-trends-in-cloud-computing-cios-should-prepare-for-in-2019/#74d3e0414dc2
+
+ 2. The impact of cloud usage is huge to any company or user, big or small. It gives more options on how someone can run their business and store their data. Without cloud technology storing your data onsite with servers etc requires ongoing maintenance costs, up front capital, technology replacement and IT staff to maintain. Though using the cloud for your data may sacrifice more control of your data due to relying on internet connection and improved privacy for sensitive data.
+
+3. Cloud services have already affected the way my data is stored or backed up either from my phone or laptop. Someone who has lost his phone many times being able to not lose my photos and files is a huge benefit. My wife is a teacher and they use the cloud to share their data between each other and other teaching and professional development networks to view and improve their works.
   
   
   
@@ -77,8 +78,7 @@ IT Technologies
   Autonomous will always have constraints
 
   MACHINE LEARNING
-  1.  Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and
-  improve from experience without being explicitly programming. 
+  1.  Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programming. 
   
   
 Project Idea
@@ -86,18 +86,13 @@ Project Idea
 Esper Project
 
 Brainstorming... Info... 
-Esper project's goal is to minimise fatalities and incidents on roads aswell as creating a safer, more energy efficient and 
-environmentally friendly path for the future of transport. 
+Esper project's goal is to minimise fatalities and incidents on roads aswell as creating a safer, more energy efficient and environmentally friendly path for the future of transport. 
 
 background of energy storage
 
-Renewable energy solar and wind power is cheap, clean and plentiful. But only when where there is sunlight or wind blowing therefore
-being inconsistant. Coal/Gas plants that run our grid power arent very efficient but they are consistant and predictable and thats why 
-they will still be used for sometime. Energy storage can be the missing piece to solve those inconsistancy problems. 
+Renewable energy solar and wind power is cheap, clean and plentiful. But only when where there is sunlight or wind blowing therefore being inconsistant. Coal/Gas plants that run our grid power arent very efficient but they are consistant and predictable and thats why they will still be used for sometime. Energy storage can be the missing piece to solve those inconsistancy problems. 
 
-A battery is a bank for energy. Price and durability of batteries has vastly improved in the past few years. Improvements have made them
-useful for various energies like solar. Lithium- ion battery has taken off with the growth of mobile devices, electric cars etc. The 
-lithium-ion battery industry alone is expected to grow to $93 billion by 2025.
+A battery is a bank for energy. Price and durability of batteries has vastly improved in the past few years. Improvements have made them useful for various energies like solar. Lithium- ion battery has taken off with the growth of mobile devices, electric cars etc. The lithium-ion battery industry alone is expected to grow to $93 billion by 2025.
 
 https://www.grandviewresearch.com/press-release/global-lithium-ion-battery-market
 
